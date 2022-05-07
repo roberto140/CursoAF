@@ -52,5 +52,7 @@
   Carbono não reage
   #### Zona de Elaboração
   Carbono reage (combustão e bourdord) - **Consumo de carbono**  
+  
+Vou esperar mais para prestar atenção na parte de modelos de carregamento. e métodos. 
 
 
